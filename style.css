@@ -114,7 +114,7 @@ h1 {
 .player-list {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
-    margin-left: 300px;
+    margin-left: 210px;
     margin-right: 180px;
     grid-row-gap: 27px;
     grid-column-gap: 20px;
@@ -158,12 +158,12 @@ h3 {
 
 .copa h1 {
     font-weight: bold;
-    font-size: 60px;
+    font-size: 48px;
     color: black;
 }
 
 .copa p {
-    font-size: 20px;
+    font-size: 16px;
 }
 
 .highlight-image img {
